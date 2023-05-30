@@ -1,17 +1,7 @@
-# Quizzify
+# Quiz It
 
-An simple quiz app with 5-question quizzes on different topics, built with
-React and Tailwind CSS
+A 5-question quiz built with React.
 
-## Screenshots
-
-Light mode:
-
-![](light_mode.png)
-
-Dark mode:
-
-![](dark_mode.png)
 
 ## Installation
 
